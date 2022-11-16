@@ -7,3 +7,5 @@ tutorial
 > what are blockquotes help
 > 
 ==highlight?==
+
+i love ☕ 🍕 🍰
